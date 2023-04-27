@@ -1,0 +1,4 @@
+nest new project-name -> Criar um novo projeto com nest
+nest g controller controller-name -> Criar uma nova Controller pelo cli do nest
+nest g service service-name -> Criar uma nova service pela cli do nest
+nest g module module-name -> Criar um novo Module pela cli do nest
